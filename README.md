@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tanishapatil0220@gmail.com**
 
-- 📄 Know about my experiences [🛠️ Develop RESTful APIs and backend architectures tailored for seamless user experiences. - 📊 Work with databases like **MongoDB** to ensure efficient data management. - 🤖 Experiment with new tools and technologies to stay ahead of the curve.](🛠️ Develop RESTful APIs and backend architectures tailored for seamless user experiences. - 📊 Work with databases like **MongoDB** to ensure efficient data management. - 🤖 Experiment with new tools and technologies to stay ahead of the curve.)
+- 📄 Know about my experiences (🛠️ Develop RESTful APIs and backend architectures tailored for seamless user experiences. - 📊 Work with databases like **MongoDB** to ensure efficient data management. - 🤖 Experiment with new tools and technologies to stay ahead of the curve.)
 
 - ⚡ Fun fact **Global Explorer: Besides coding, I have a passion for exploring new places and learning about different cultures.**
 
